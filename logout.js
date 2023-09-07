@@ -2,12 +2,6 @@ function Logout() {
   const [show, setShow] = React.useState(false);
   const ctx = React.useContext(UserContext);
 
-  {
-    /* if (ctx.activeUser[0].name !== "") {
-      setShow(true);
-    } */
-  }
-
   React.useEffect(() => {
     if (ctx.activeUser[0].name !== "") {
       setShow(true);
