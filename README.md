@@ -48,7 +48,7 @@
 
 Bank application built using React and Bootstrap. Heavy use of useContext, useState and lighter use of useEffect. Includes components for logging in, logging out, creating new users, withdrawing and depositing money, and checking account balance.
 
-## :sparkles: Features ##
+## :sparkles: Road to Future Improvements ##
 
 More styling is required. Needs functinoality to track and display all financial movements. 
 
